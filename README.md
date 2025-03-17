@@ -241,7 +241,7 @@ Here's [documentation on schemas in LLM](https://llm.datasette.io/en/stable/sche
 
 You'll need API keys for this. Visit [this page](https://tools.simonwillison.net/encrypt#6s444Mi4bEHi9dkcaWxk3ux3EplN9jZyqGpT8MaBcRu7A0FjyxSaAHEyxH4CsMcY25d8qpB2u2XZ687VA41OgfjIdD5HXYKxiTrlJZbdkVM7JiObFnijGFtkYbJMscV4i7qKyLAcO9eHvfe9m+G6fQatlPYLQxPsKqo6GPe+pLHGWx2TZGtZVMtZtr1onaVf2ji3rfRj2yICkGhobv5WXM2rv3Eqr4T163AJ1nv4L3NdGHR6wiI4G+hbtmKvbWimTq5wtns4Cjs9dT1NzchZdLG0UKpGjGqJMUZ4LVcdhNuPSMx3SNWOa7ALd83nv04DUpMPZRYcYRnhQ4d1OphEHiLeqzgsBPuFbZco1TR+kalaqOI05hJh) and enter the passphrase distributed during the workshop to get OpenAI and Gemini keys that you can use during the workshop.
 
-After the workshop you'll need your own. You can get [OpenAI keys here]() (you'll likely have to setup billing, but the cost is extremely low) and [Google Gemini keys here](https://aistudio.google.com/apikey) (they have a generous free tier and extremely inexpensive prices beyond that).
+After the workshop you'll need your own. You can get [OpenAI keys here](https://platform.openai.com/api-keys) (you'll likely have to setup billing, but the cost is extremely low) and [Google Gemini keys here](https://aistudio.google.com/apikey) (they have a generous free tier and extremely inexpensive prices beyond that).
 
 Start in Codespaces (or your local Python environment). Run this:
 
